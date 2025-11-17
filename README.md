@@ -12,7 +12,7 @@
 - Git & GitHub  
 - Lógica de Programação  
 - Windows / Hardware / Redes  
-- Sistemas personalizados (custom OS)
+- Suporte Técnico
 
 ---
 
