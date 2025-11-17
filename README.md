@@ -1,6 +1,6 @@
 <!-- 🔮 BANNER DO PERFIL — (mude aqui) escolha qual link de banner você quer -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/94/74/22/947422c60c42f68ea77aec1604c18598.jpg" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/1200x/9f/db/bd/9fdbbd8988b4a9f999ef70e78232bed0.jpg" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Gabriel Kenzo</h1>
