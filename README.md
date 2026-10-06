@@ -1,7 +1,7 @@
 <!-- 🔮 BANNER DO PERFIL -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9f/db/bd/9fdbbd8988b4a9f999ef70e78232bed0.jpg" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Gabriel Kenzo</h1>
