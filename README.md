@@ -157,8 +157,12 @@ Dados & BI
 ## 📈 GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KenzoWaka10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoWaka10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <a href="https://github.com/KenzoWaka10?tab=repositories"><img src="https://img.shields.io/github/followers/KenzoWaka10?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="Seguidores" /></a>
+  <a href="https://github.com/KenzoWaka10/k-finder"><img src="https://img.shields.io/github/last-commit/KenzoWaka10/k-finder?style=for-the-badge&logo=git&logoColor=white&label=%C3%9Altimo%20commit%20K-Finder&color=2c5364" alt="Último commit do K-Finder" /></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KenzoWaka10&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ---
